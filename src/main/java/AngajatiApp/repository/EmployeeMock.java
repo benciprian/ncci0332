@@ -90,9 +90,12 @@ public class EmployeeMock implements EmployeeRepositoryInterface {
 	}
 
 	@Override
-	public Employee findEmployeeById(int idOldEmployee) {
+	public Employee findEmployeeById(int idOfEmployee) {
+		for (Employee employee: employeeList){
+			if (employee.getId() == idOfEmployee) return employee;
 		// TODO Auto-generated method stub
-		return null;
-	}
 
+	}
+		return null;
+  }
 }
