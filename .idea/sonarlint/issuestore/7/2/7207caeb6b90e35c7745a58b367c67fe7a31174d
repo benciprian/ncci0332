@@ -1,0 +1,20 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¾¶Ç8Ò­·å¶1
+k
+java:S1192"NDefine a constant instead of duplicating this literal "1234567890876" 6 times.(Åœ™º8Ó­·å¶1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åœ™º8Ó­·å¶1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÉõÛøÿÿÿÿ8Ô­·å¶1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀãËF8Ô­·å¶1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëó€è8Ô­·å¶1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³å·•8Ô­·å¶1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÛò®8Ô­·å¶1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¦ºÒûÿÿÿÿ8Õ­·å¶1
+]	java:S1257"<This block of commented-out lines of code should be removed.(ª›ïŽùÿÿÿÿ8½—Æ§·1
+]	java:S125@"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8½—Æ§·1
+H
+java:S1168Y"+Return an empty collection instead of null.(¥¹ï8å­·å¶1
+T
+java:S1135X"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8å­·å¶1
+T
+java:S1135^"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8æ­·å¶1
